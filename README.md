@@ -1,2 +1,2 @@
 # JokesApp
-[a link](https://api.chucknorris.io/jokes/random)
+[Api used](https://api.chucknorris.io/jokes/random)
